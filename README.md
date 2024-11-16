@@ -1,5 +1,5 @@
 PlayEase - A Customizable Web Video Player
-#playease
+
 PlayEase is a web-based media player inspired by the structure and functionality of VLC, providing users with robust video and audio control, and supporting various file types. It offers functionality for volume and playback speed manipulation, user file input, and on-screen messages (Toast notifications), making it a versatile media solution for web environments.
 
 Key Features
